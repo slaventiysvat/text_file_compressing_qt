@@ -1,0 +1,3 @@
+[submodule "packword"]
+	path = packword
+	url = https://github.com/yrnkrn/packword.git
