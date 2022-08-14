@@ -5,6 +5,7 @@
 #include <QSharedDataPointer>
 #include <QWidget>
 #include <QStack>
+//Pack txt Algorithm Class
 enum class data_definition {
 
     DATA_CHANGED,
